@@ -1,12 +1,12 @@
-Results Summary Component
+Results Summary Component:
 This project is a Results Summary Component.
 
 
-Description
+Description:
 A floral, solar, and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for the House of CHANEL.
 
 
-Product Details
+Product Details:
 Product: Perfume
 Name: Gabrielle Essence Eau De Parfum
 Discount Price: $149.99
