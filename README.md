@@ -1,5 +1,5 @@
-Results Summary Component:  
-This is a Results Summary Component.
+ 
+This is a Product Preview Card Page.
 
 
 Description:
